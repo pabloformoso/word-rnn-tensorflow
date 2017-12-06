@@ -1,3 +1,5 @@
+fork from original https://github.com/hunkim/word-rnn-tensorflow - mostly changing gpu usage
+
 # word-rnn-tensorflow
 [![Build Status](https://travis-ci.org/hunkim/word-rnn-tensorflow.svg?branch=master)](https://travis-ci.org/hunkim/word-rnn-tensorflow)
 
